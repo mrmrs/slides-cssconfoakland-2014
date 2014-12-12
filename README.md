@@ -25,7 +25,7 @@ I've found that being informed on what you don't know, will help you in keeping 
 Bad css is full of assumptions. Understanding where you can't make assumptions can help you write code that works in more contexts.
 
 ## All of CSS in one file
-If you want to see my experiment with putting the entire css language into one file it's called (css unabridged)[http://github.com/mrmrs/css-unabridged].
+If you want to see my experiment with putting the entire css language into one file it's called [css unabridged](http://github.com/mrmrs/css-unabridged).
 I've tried to make it as verbose as possible and it is currently 20.15kb minified and gzipped.
 
 ## Reading
