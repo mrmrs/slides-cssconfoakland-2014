@@ -24,9 +24,9 @@ When I am building components I now stop and write out notes about all the thing
 I've found that being informed on what you don't know, will help you in keeping concerns separated - and that your abstractions are on point.
 Bad css is full of assumptions. Understanding where you can't make assumptions can help you write code that works in more contexts.
 
-If you want to see my experiment with putting the entire css language into one file
-check out this repo here: http://github.com/mrmrs/css-unabridged
-I've tried to make it as verbose as possible and it currently sites at 20.15kb minified and gzipped.
+## All of CSS in one file
+If you want to see my experiment with putting the entire css language into one file it's called (css unabridged)[http://github.com/mrmrs/css-unabridged].
+I've tried to make it as verbose as possible and it is currently 20.15kb minified and gzipped.
 
 ## Reading
 
@@ -35,12 +35,12 @@ html. Some of them are not actually articles about front-end development,
 but still introduced concepts to me that changed how I approached authoring
 code for users.
 
-[Material honesty on the web - Kevin Goladman](http://alistapart.com/article/material-honesty-on-the-web)
-[The media object saves hundreds of lines of code - Nicole Sullivan](http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code/)
-[About HTML semantics and front end architecture - Nicolas Gallagher](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
-[A classless class - Harry Roberts](http://csswizardry.com/2012/10/a-classless-class-on-using-more-classes-in-your-html/)
-[I'm sick of your tiny tiny type - Brent Jackson](http://jxnblk.tumblr.com/post/41796724549/im-sick-of-your-tiny-tiny-type)
-[Code smells in CSS - Harry Roberts](http://csswizardry.com/2012/11/code-smells-in-css/)
+* [Material honesty on the web - Kevin Goladman](http://alistapart.com/article/material-honesty-on-the-web)
+* [The media object saves hundreds of lines of code - Nicole Sullivan](http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code/)
+* [About HTML semantics and front end architecture - Nicolas Gallagher](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
+* [A classless class - Harry Roberts](http://csswizardry.com/2012/10/a-classless-class-on-using-more-classes-in-your-html/)
+* [I'm sick of your tiny tiny type - Brent Jackson](http://jxnblk.tumblr.com/post/41796724549/im-sick-of-your-tiny-tiny-type)
+* [Code smells in CSS - Harry Roberts](http://csswizardry.com/2012/11/code-smells-in-css/)
 
 This article is a little more technical - but gives some interesting insight into how chrome handles painting to the screen.
 [GPU accelerated compositing in chrome](http://www.chromium.org/developers/design-documents/gpu-accelerated-compositing-in-chrome)
