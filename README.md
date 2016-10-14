@@ -2,7 +2,7 @@
 
 I recently gave a talk at CSSCONF in Oakland. Here are my slides.
 
-For those of you who attended - or to anyone who watches the video,
+For those of you who attended - or to anyone who watches the [video](https://www.youtube.com/embed/14N_V56tqd4),
 I'd like to clarify a few points.
 
 At one point I kind of champion inline styles. I forgot to clarify I mean the mental model that
